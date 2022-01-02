@@ -1,4 +1,4 @@
-# tbrowser
+# TBrowser
 This is just a simple browser, i tried to make it as close to Firefox Privacy browser (design wise) with some extra options. I hope you like this browser, if you do then subscribe to my YouTube channel for future videos.
 
 I know there is some part missing thats why i am providing this to everyone. Its open source so you can add more features.
